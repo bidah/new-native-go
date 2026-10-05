@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "new-native-go",
+    "slug": "new-native-go",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.newnativego" },
+    "scheme": "newnativego"
+  }
+}
